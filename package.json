@@ -1,0 +1,29 @@
+{
+  "name": "tea-livy",
+  "version": "1.0.0",
+  "description": "tea sepolia",
+  "keywords": [
+    "tea",
+    "sepolia",
+    "test"
+  ],
+  "homepage": "https://github.com/rudinn12/tea-sepolia#readme",
+  "bugs": {
+    "url": "https://github.com/rudinn12/tea-sepolia/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudinn12/tea-sepolia.git"
+  },
+  "license": "MIT",
+  "author": "rudinn12",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.3",
+    "tailwindcss": "^4.1.3"
+  }
+}
